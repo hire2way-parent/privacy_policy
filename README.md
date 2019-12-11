@@ -1,6 +1,3 @@
-# privacy_policy
-privacy policy
-
 <h1>Privacy Policy for Hire2way</h1>
 
 <p>At Hire2way, accessible from Hire2way.in, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Hire2way and how we use it.</p>
